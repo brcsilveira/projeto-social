@@ -37,7 +37,7 @@ O projeto consiste em uma página principal com um iframe que exibe diferentes r
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/projeto-redes-sociais.git
+   git clone https://github.com/brcsilveira/projeto-redes-sociais.git
    ```
 
 2. Abra o arquivo `index.html` em um navegador web.
